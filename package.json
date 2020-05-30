@@ -1,0 +1,14 @@
+{
+  "name": "file-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suitecloud.config.js",
+  "scripts": {
+    "build-deploy": "suitecloud project:adddependencies && suitecloud project:validate && suitecloud project:deploy",
+    "deploy": "suitecloud project:deploy",
+    "update" : "suitecloud object:update -i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
