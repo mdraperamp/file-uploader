@@ -1,9 +1,12 @@
 # Sample Suitescript File Uploader
 
 This example is ready to rock with suitecloud ide. It assumes you have the node ide installed
-and are creating an account customization project. 
+and are creating an account customization project.
 
 ## Commands
+
+I included an updated package.json that I use to speed things up. Try it if you dont already
+have something you go to. 
 
 #### Deploy Only
 
