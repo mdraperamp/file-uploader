@@ -1,10 +1,11 @@
-#Sample Suitescript File Uploader
+# Sample Suitescript File Uploader
+
 This example is ready to rock with suitecloud ide.
 
-#Commands
+# Commands
 
-##Deploy Only
+## Deploy Only
 
-##Update (Interactive Mode)
+## Update (Interactive Mode)
 
-##Build/Validate/Deploy
+## Build/Validate/Deploy
