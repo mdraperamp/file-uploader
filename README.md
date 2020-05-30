@@ -1,6 +1,6 @@
 # Sample Suitescript File Uploader
 
-This example is ready to rock with suitecloud ide. I assumes you have the node ide installed
+This example is ready to rock with suitecloud ide. It assumes you have the node ide installed
 and are creating an account customization project. 
 
 ## Commands
